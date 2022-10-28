@@ -1,0 +1,61 @@
+
+/* Header */
+header{
+    font-weight: bolder;
+    font-size: xx-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:inherit;
+    color:aliceblue;
+    outline: 1px double black ;
+    border: 3px groove blueviolet;
+    background-color:cornflowerblue;
+}
+
+
+#header_caption{
+    color:cornsilk;
+    font-size: medium;
+}
+
+*{
+    text-align: center;
+
+}
+
+/* Body */
+h2{
+    text-decoration: underline;
+    font-size:x-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    font-size: large;
+    font-style:initial;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+    border: 2px double black;
+}
+
+caption{
+    font-size: x-small;
+}
+
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 50%;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul{
+    margin-left: 650px;
+    margin-right: 700px;
+    text-align: left;
+}
+  

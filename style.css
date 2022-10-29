@@ -58,4 +58,16 @@ ul{
     margin-right: 700px;
     text-align: left;
 }
-  
+
+body{
+    background-image: url(https://img.freepik.com/free-vector/white-abstract-wallpaper_23-2148830026.jpg?w=2000);
+    backdrop-filter: blur(5px);
+}
+
+#wk2_colorex{
+    color: crimson;
+}
+
+#wk2_fontex{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

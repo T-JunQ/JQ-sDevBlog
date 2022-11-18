@@ -19,7 +19,23 @@ header{
 
 *{
     text-align: center;
+}
 
+nav{
+    border:2px solid black;
+    font-size: small;
+}
+
+a:link{
+    color:gold;
+}
+
+a:visited{
+    color:blueviolet;
+}
+
+a:hover{
+    color: red;
 }
 
 /* Body */
@@ -72,8 +88,10 @@ body{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-a:hover{
-    color: red;
+
+
+html{
+    scroll-behavior: smooth;
 }
 
 img{
@@ -118,6 +136,10 @@ form{
     font-size:medium;
 }
 
+#wk4_responsivedemo{
+    max-width:100%;
+    height: 400px;
+}
 
 /* footer */
 footer{
